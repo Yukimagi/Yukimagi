@@ -35,7 +35,7 @@ Three most important tools in my coding life: Git, VS code and Stack Overflow.
   <img src="https://img.icons8.com/fluency/96/000000/javascript.png" width="60" alt="js">
   <img src="https://img.icons8.com/fluency/96/000000/python.png" width="60" alt="python">
   <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png" width="60" alt="c#">
-	<img src="https://icons8.com/icon/2572/java" width="60" alt="java">
+  <img src="https://img.icons8.com/color/96/000000/java.png" width="60" alt="java">
   
 </span>
 
