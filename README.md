@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h2> Who am I?</h2>
 
 - 🎓 Taiwanese college student level 3
-- 🌱 I’m currently learning IoT technologies
+- 🌱 I’m currently learning Spoof Voice AI technologies
 - 📫 How to reach me: yukilin55@gmail.com
 
 <h2>🔧 Languages and Tools</h2>
