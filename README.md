@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="right"><code>Created on: 2023/06/14</code></p>
-<p align="right"><code>Last modified: 2024/07/15</code></p>
+<p align="right"><code>Last modified: 2024/09/30</code></p>
 
 <h1 align="center">
   Hello World 👋<br>
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h2> Who am I?</h2>
 
 - 🎓 Taiwanese college student level 4
-- 👩‍💻 Academia sinica intern - EMC LAB
+- 👩‍💻 Academia sinica Project Research Scholarship Recipients - EMC LAB
 - 🌱 I’m currently learning Spoof Voice AI \ Gen-AI \ TinyML technologies
 - 📫 How to reach me: yukilin55@gmail.com
 
