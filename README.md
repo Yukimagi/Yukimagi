@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
 <h2> Who am I?</h2>
 
 - 🎓 Taiwanese college student level 4
-- 👩‍💻 Academia sinica Project Research Scholarship Recipients - EMC LAB
-- 🌱 I’m currently learning Spoof Voice AI \ Gen-AI \ TinyML technologies
+- 👩‍💻 Academia sinica Project Research Scholarship Recipients - EMC LAB(202406~202506)
+- 👩‍💻 Industrial Technology Research Institute (ITRI) Intern(202503~202508)
+- 🌱 I’m currently learning Spoof Voice AI \ Gen-AI \ TinyML technologies \ Unity
 - 📫 How to reach me: yukilin55@gmail.com
 
 <h2>🔧 Languages and Tools</h2>
